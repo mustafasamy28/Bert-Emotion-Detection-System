@@ -164,7 +164,7 @@ print(f"Detected emotion: {emotion}")
 
 ### Local Deployment
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 ### API Integration
