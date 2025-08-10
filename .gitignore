@@ -29,3 +29,6 @@ Thumbs.db
 *.log
 logs/
 .cache/
+bert-base-uncased-sentiment-model/
+bert_base_train_dir/
+.ipynb_checkpoints/
